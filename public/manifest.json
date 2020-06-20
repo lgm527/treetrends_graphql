@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "TreeTrends + GraphQL",
+  "name": "Practing fetching data from a REST API wrapped with GraphQL",
   "icons": [
     {
       "src": "favicon.ico",
