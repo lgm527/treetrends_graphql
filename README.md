@@ -1,3 +1,11 @@
+## Implementing GraphQL with a REST API
+
+Practice wrapping rest API fetches with graphQL to stop over-fetching data
+
+## 2015 NYC Street Tree Census:
+
+https://data.cityofnewyork.us/resource/uvpi-gqnh.json
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
